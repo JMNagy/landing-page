@@ -168,7 +168,7 @@ body {
 .s4btn {
   width: 120px;
   height: 50px;
-  background-color: rgb(255, 78, 78);
+  background-color: #3881f6;
   border: 1.5px solid rgb(255, 255, 255);
   border-radius: 3px;
   font-weight: 900;
@@ -177,7 +177,7 @@ body {
 }
 .s4btn:hover {
   cursor: pointer;
-  background-color: red;
+  background-color: #0564fd;
 }
 .footer {
   display: flex;
